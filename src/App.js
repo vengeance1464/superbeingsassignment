@@ -137,7 +137,7 @@ function App() {
                         )
                     }) : null
                 }
-                    <div className="manager">Aggregate</div>
+                    <div className="manager dark-blue">Aggregate</div>
                 </div>
                 {
                 scoresMap !== null && labels.length > 0 ? <> {
